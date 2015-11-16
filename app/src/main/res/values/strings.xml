@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LearningFragments</string>
+    <string-array name="list_items">
+        <item>India</item>
+        <item>France</item>
+        <item>New york</item>
+        <item>London</item>
+        <item>Suwon</item>
+    </string-array>
+
+    <string-array name="list_description">
+        <item>India is in Asia.</item>
+        <item>France is in Europe.</item>
+        <item>New york is in North America.</item>
+        <item>London is in United Kingdom.</item>
+        <item>Suwon is in South Korea.</item>
+    </string-array>
+</resources>
